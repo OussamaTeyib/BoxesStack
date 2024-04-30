@@ -8,7 +8,7 @@ This is a console-based application that simulates a stack of boxes. The applica
 
 ### Usage:
 1. Build the excutable using `make`.
-2. Navigate to `bin/` directory.
+2. Navigate to `bin` directory.
 3. Run the executable.
 
 ### License:
