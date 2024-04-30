@@ -1,10 +1,11 @@
-/* a simple database (stack of boxes) where you can add, modify and remove items (boxes). *
- * Written by Oussama Teyib .                                                             *  
- * February 2023.                                                                         */
+/* A simple database (a stack of boxes) where you can add, modify and remove items (boxes). *
+ * Written by Oussama Teyib.                                                                *  
+ * February 2023.                                                                           */
 
 #include<stdio.h>
 #include<string.h> // for strncpy();
 #include<stdlib.h> // for system("cls");
+
 #define MAX 100
 
 typedef struct {
