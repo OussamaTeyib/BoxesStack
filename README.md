@@ -13,5 +13,6 @@ This is a console-based application that simulates a stack of boxes. The applica
 2. Navigate to `bin` directory
 3. Run the executable
 
-### License:
+### License
+
 This project is licensed under the [MIT License](LICENSE).
